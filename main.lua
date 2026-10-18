@@ -3,7 +3,7 @@ local CONFIG = {
 	Subtitle = "Premium Build",
 	GroupId  = 1234567,
 	MinRank  = 1,
-	Link     = "https://shorturl.asia/fqcxn6",
+	Link     = "https://shorturl.asia/bv3bzu",
 	Pink     = Color3.fromRGB(255, 46, 151),
 	Cyan     = Color3.fromRGB(0, 240, 255),
 }
